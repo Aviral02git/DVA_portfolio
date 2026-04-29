@@ -1,6 +1,6 @@
 # 🚀 Aviral Mishra — DVA Portfolio
 
-A responsive **Data Science & Analytics Portfolio** built using **HTML & CSS**, showcasing real-world case studies, dashboards, and data-driven insights.
+A responsive **Data Science & Analytics Portfolio** built using, showcasing real-world case studies, dashboards, and data-driven insights.
 
 🌐 **Live Demo:** 👉 [dva-portfolio-dun-six.vercel.app](https://dva-portfolio-dun-six.vercel.app)
 
